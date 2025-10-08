@@ -1,3 +1,6 @@
-# blockmacket
+# learning Lua script
 
-lets go
+
+workin on Lua script
+
+
