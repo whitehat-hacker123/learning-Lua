@@ -1,6 +1,7 @@
 # learning Lua script
 
 
-workin on Lua script
+
+my journey of learning Lua script for Roblox studio
 
 
