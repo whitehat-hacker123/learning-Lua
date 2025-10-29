@@ -50,8 +50,14 @@ for index, value in pairs(myarray) do
 end]]
 
 
--- so lets make function that can make new value on the next key
+--functions in dictionary
 
-local function newval (value)
-	
-end
+--how to insert values on dictionary
+table.insert(mydictionary,"yippee")--only 
+--or 
+table.insert(mydictionary,2,"yepper")
+--how to remove value from dictionary
+table.remove(mydictionary,2)
+--removes the value at index 2 which is yepper
+--how to find a value of the key
+
